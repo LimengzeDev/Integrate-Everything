@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "29.1",
+    "versionCode": "29100",
+    "link": "https://dgithub.xyz/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/28100.md"
+  },
+  "stub": {
+    "versionCode": "0",
+    "link": ""
+  }
+}
