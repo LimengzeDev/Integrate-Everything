@@ -2,7 +2,7 @@
   "magisk": {
     "version": "29.1",
     "versionCode": "29100",
-    "link": "https://dgithub.xyz/topjohnwu/Magisk/releases/download/manager-v8.0.2/MagiskManager-v8.0.2.apk",
+    "link": "https://gitee.com/lmzlm/ab/raw/master/a.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/28100.md"
   },
   "stub": {
